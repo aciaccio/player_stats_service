@@ -1,0 +1,15 @@
+org\springframework\gs_rest_service\PlayersStats.class
+org\springframework\gs_rest_service\PlayerWeeksStats$WeekStats.class
+org\springframework\gs_rest_service\GameStatsObject.class
+org\springframework\gs_rest_service\Application.class
+org\springframework\gs_rest_service\PlayersStatsObject.class
+org\springframework\gs_rest_service\StatObject.class
+org\springframework\gs_rest_service\PlayerSeasonStats.class
+org\springframework\gs_rest_service\PlayerStatsController.class
+org\springframework\gs_rest_service\PlayersStatsObject$2.class
+org\springframework\gs_rest_service\PlayerStatObject$Stat.class
+org\springframework\gs_rest_service\PlayerWeeksStats.class
+org\springframework\gs_rest_service\GameStats.class
+org\springframework\gs_rest_service\PlayersStatsObject$1.class
+org\springframework\gs_rest_service\GameStats$1.class
+org\springframework\gs_rest_service\PlayerStatObject.class
